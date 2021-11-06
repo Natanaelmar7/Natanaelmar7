@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, Sou Natanael um desenvolvedor Front-end, estudando back-end, <br>pretendo me tornar um full stack com olhar em  <br>aprender mais sobre as "linguas dos computadores".
+  Olá, Sou Natanael um desenvolvedor Front-end, estudando back-end, pretendo me tornar um full stack com olhar em  <br>aprender mais sobre as "linguas dos computadores".
 </p>
 
 <p align="left">
