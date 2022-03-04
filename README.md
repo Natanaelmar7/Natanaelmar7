@@ -1,28 +1,59 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+![](https://komarev.com/ghpvc/?username=Natanaelmar7&color=006bed)
 
-<p align="left"> 
-  Olá, Sou Natanael um desenvolvedor Front-end, estudando back-end, pretendo me tornar um full stack com olhar em  <br>aprender mais sobre as "linguas dos computadores".
-</p>
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-<p align="left">
-  🦄 Linguagens: 
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-</p>
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Eng. de Software** no <a href="https://www.unopar.com.br"/>.
+- 💼 &nbsp; Trabalhando como **Atendente** na <a href="https://www.sicoob.com.br/web/sicooblagoacredgerais">Lagoacred</a>
+- 🌱 &nbsp; Aprendendo mais sobre **React.js**.
 
-<p align="left">
-  💼 Ferramentas: <strong>Git/Github<strong>
-</p>
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-<p align="left">
-  💌 Contato: natanaelmartinswork@gmail.com ⤵️
-</p>
+**Aplicações e Dados**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/natanael-martins-792777223/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://www.instagram.com/qtz.natanael/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+<div style="display: inline_block">
+            
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ 
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  </div>
+  
+
+
+
+**Utilidades**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+ 
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+
+<br/>
+
+<div style="display: inline_block">
+<a href="https://github.com/VanessaSwerts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natanaelmar7&theme=dracula&show_icons=true" />
+</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanaelmar7&theme=blue-green"/>
+ </div>
+ 
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+<a href="mailto:natanaelevangelistamartins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/natanael-evangelista-martins-792777223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
