@@ -41,9 +41,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<br/>
+<br>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
 <a href="https://github.com/VanessaSwerts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natanaelmar7&theme=dracula&show_icons=true" />
 </a>
