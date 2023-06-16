@@ -3,7 +3,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Eng. de Software** no <a href="https://www.unopar.com.br">Unopar</a>
+- 🎓 &nbsp; Estudando **Eng. de Software** na <a href="https://www.unopar.com.br">Unopar</a>
 - 🌱 &nbsp; Aprendendo mais sobre **React.js**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
