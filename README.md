@@ -21,7 +21,7 @@
  
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
-<img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
   </div>
   
 
