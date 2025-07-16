@@ -25,6 +25,8 @@
 
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
 
+<img src="https://img.shields.io/badge/Django-dark-green?style=for-the-badge&logo=django&logoColor=white">
+
   </div>
   
 
