@@ -21,7 +21,10 @@
  
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
+<img src="https://img.shields.io/badge/Reactjs-white?style=for-the-badge&logo=python&logoColor=blue">
+
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
+
   </div>
   
 
